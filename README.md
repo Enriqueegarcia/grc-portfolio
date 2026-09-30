@@ -1,6 +1,6 @@
 # GRC Portfolio — Angelo Garcia
 
-Cybersecurity student (B.S., expected 2029) · San Juan, Puerto Rico · Bilingual English/Spanish
+Cybersecurity student, NUC University (Bachelor of Technology, expected May 2029) · San Juan, Puerto Rico · Bilingual English/Spanish
 Focus: governance, risk and compliance (GRC) — third-party and AI risk in financial services.
 
 ## Projects
