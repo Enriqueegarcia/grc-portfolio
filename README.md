@@ -8,7 +8,7 @@ Focus: governance, risk and compliance (GRC) — third-party and AI risk in fina
 | # | Project | Status |
 |---|---|---|
 | A1 | [Vendor Security Assessment — Zoom Workplace](A1-vendor-assessment/) | ✅ v1.0 released |
-| A2 | AI Use-Case Risk Assessment — bank chatbot (NIST AI RMF) | ⚪ Planned |
+| A2 | [AI Use-Case Risk Assessment — bank chatbot (NIST AI RMF)](A2-ai-risk-assessment/) | 🟡 In progress |
 | A3 | Third-Party Information Security Standard | ⚪ Planned |
 | A4 | Vendor Risk Dashboard (Power BI) | ⚪ Planned |
 
