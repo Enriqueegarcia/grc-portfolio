@@ -1,0 +1,12 @@
+# Store text with LF line endings so files look the same on every machine
+* text=auto eol=lf
+*.md text diff=markdown
+*.csv text
+*.py text
+
+# Binary files (Power BI, images, PDFs) are never converted
+*.pbix binary
+*.png binary
+*.jpg binary
+*.pdf binary
+*.xlsx binary

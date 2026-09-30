@@ -1,0 +1,19 @@
+# Windows / editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.obsidian/
+
+# Office temp and lock files
+~$*
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Gated or confidential source documents (SOC 2 reports, NDA material).
+# Log them in evidence/README.md, but never commit the files to a public repo.
+**/evidence/private/
