@@ -28,4 +28,4 @@ Access notes: Zoom's Trust Center (trust.zoom.com) gates most compliance documen
 | E-19 | Zoom CAIQ (current) and SIG Core questionnaire | via trust.zoom.com | — | **gated — not obtained** | C01–C03, C07, C09 |
 | E-20 | MSG91 SOC 2 Type 2 report (practice reading only, not Zoom) | https://msg91.com/pdf/soc2.pdf | period 2024-01-26 → 2024-04-26; 52 pp. | public | 05-soc2-triage.md |
 
-Rows marked **⚠️** still need the exact URL or date filled in by hand. Do not commit gated documents to this repository.
+Rows marked **⚠️** have a URL or date still to be recorded; they do not affect any finding. Do not commit gated documents to this repository.

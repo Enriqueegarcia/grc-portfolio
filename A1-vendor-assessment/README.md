@@ -1,6 +1,6 @@
 # A1 — Vendor Security Assessment: Zoom Workplace
 
-> **Status: v0.9 — draft memo, under review.**
+> **Status: v1.0 — released 2026-09-30.** Next review 2027-09-30.
 > Independent practice assessment based only on publicly available information as of 2026-09-30. Not affiliated with or endorsed by Zoom Video Communications, Inc. *Banco Ejemplo* is a fictional institution.
 
 ## Files

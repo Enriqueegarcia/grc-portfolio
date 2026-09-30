@@ -1,6 +1,7 @@
 # A1 Scope — Zoom Workplace
 
-> ✍️ **DRAFT (task A1-03):** read every section, then rewrite anything that doesn't sound like you. An interviewer may ask you to explain any sentence here. Delete this box when done.
+**Version 1.0 · 2026-09-30 · Author: Angelo Garcia**
+
 
 ## Purpose
 This assessment evaluates whether Zoom Workplace provides adequate security controls for a proposed use at Banco Ejemplo. It supports a single decision: whether Consumer Lending may adopt the service, and under what conditions.
