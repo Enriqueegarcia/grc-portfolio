@@ -58,5 +58,9 @@ Findings marked **Unable to verify** are rated as if the control is absent (Like
 
 Accepting residual risk requires a named business owner at VP level or above, per the exception process in A3 (planned).
 
-## 7. Worked example
-> ✍️ **To do (A1-05):** rate one real finding here, step by step: name the finding, pick the Likelihood level (quote its definition), pick the Impact level (quote its definition), multiply, and state the rating.
+## 7. Worked example — F-01, SOC 2 Type II not obtained
+1. **Finding.** Zoom publishes a SOC 2 Type II report, but only to customers through a gated Trust Center. This assessment could not obtain it, so whether Zoom's controls *operated effectively over the audit period* is unknown.
+2. **Likelihood.** Section 4 says an unverified control is rated as if absent. Level 4 — "A control is missing or unverified, and the threat is common for this type of service." Security incidents at SaaS collaboration vendors are common in the industry. → **L = 4**.
+3. **Impact.** If the controls turn out to be weak, the exposure is mortgage customers' NPI in recordings and chat. Level 4 — "Customer NPI exposure affecting a limited group, required regulatory notification, or significant customer harm." (Not level 5: a single business unit, not bank-wide.) → **I = 4**.
+4. **Rating.** 4 × 4 = **16 → 🟠 High**.
+5. **What it means.** Per §6, a High finding means the recommendation is **Mitigate**: adoption can proceed only with the report obtained and reviewed within 60 days, owned by the Vendor Management Office. Once the report is reviewed with no material exceptions, Likelihood drops to 2 and the residual rating becomes 8 → Moderate.
