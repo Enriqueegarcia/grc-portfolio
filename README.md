@@ -1,26 +1,22 @@
-# GRC Portfolio: Third-Party & AI Risk
+# GRC Portfolio — Angelo Garcia
 
-Cybersecurity student (B.S., expected 2029) building a public portfolio of governance, risk and compliance (GRC) work for information security roles at regulated financial institutions. Bilingual English/Spanish, based in San Juan, Puerto Rico.
+Cybersecurity student (B.S., expected 2029) · San Juan, Puerto Rico · Bilingual English/Spanish
+Focus: governance, risk and compliance (GRC) — third-party and AI risk in financial services.
 
-## Artifacts
+## Projects
 
-| # | Artifact | What it demonstrates | Status |
-|---|---|---|---|
-| A1 | [Vendor Security Assessment — Zoom Workplace](A1-vendor-assessment/) | Vendor due diligence, control review mapped to CSA CCM v4 and NIST CSF 2.0, a documented risk rating method, SOC 2 report analysis | 🟡 In progress |
-| A2 | AI Use-Case Risk Assessment (NIST AI RMF) | AI governance and risk controls for a bilingual bank chatbot | ⚪ Planned |
-| A3 | Third-Party Information Security Standard | Policy writing, testable control statements, document lifecycle management | ⚪ Planned |
-| A4 | Vendor Risk Dashboard (Power BI) | Risk reporting and data modeling for business stakeholders | ⚪ Planned |
+| # | Project | Status |
+|---|---|---|
+| A1 | [Vendor Security Assessment — Zoom Workplace](A1-vendor-assessment/) | 🟡 In progress |
+| A2 | AI Use-Case Risk Assessment — bank chatbot (NIST AI RMF) | ⚪ Planned |
+| A3 | Third-Party Information Security Standard | ⚪ Planned |
+| A4 | Vendor Risk Dashboard (Power BI) | ⚪ Planned |
 
-## How to read this in 3 minutes
-1. Start with the **A1 [assessment memo](A1-vendor-assessment/README.md)** — the page written for a business decision-maker.
-2. Then skim the **[risk rating methodology](A1-vendor-assessment/02-methodology.md)**, which every finding is scored against.
-3. For the detail, the **[control review](A1-vendor-assessment/03-control-review.csv)** shows each control, the question asked, and the evidence behind the answer.
+## How this portfolio works
 
-## Frameworks and sources used
-NIST Cybersecurity Framework 2.0 · NIST SP 800-30 Rev. 1 · CSA Cloud Controls Matrix v4 / CAIQ · AICPA SOC 2 · Interagency Guidance on Third-Party Relationships (2023) · NIST AI RMF 1.0 and NIST AI 600-1 (A2)
+- **One folder per project.** Each folder's `README.md` is the summary page, written for a business reader. The numbered files behind it (`01-`, `02-`…) hold the working detail.
+- **The projects build on each other.** A1 sets the risk rating method. A2 reuses it for an AI system. A3 turns the lessons into a written standard. A4 reports the results in a dashboard.
+- **Public sources only.** Every project uses publicly available information and a fictional bank, *Banco Ejemplo*. They are practice exercises, not official audits, and no company named here endorses them.
+- **Built in the open.** Status updates as each project moves from planned to released.
 
-## Disclaimer
-Every artifact is an **independent practice exercise** built only from publicly available information. It is not an audit or an official assessment of any vendor, and it is not affiliated with or endorsed by any company named. The bank in the scenarios, *Banco Ejemplo*, is fictional.
-
-## License
-Content is licensed under [CC BY 4.0](LICENSE).
+Licensed under [CC BY 4.0](LICENSE).
