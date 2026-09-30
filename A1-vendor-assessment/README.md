@@ -18,8 +18,8 @@
 # Assessment Memo
 
 **To:** VP, Consumer Lending — Banco Ejemplo
-**From:** [Your name], Information Security Office (practice)
-**Date:** YYYY-MM-DD
+**From:** Angelo Garcia, Information Security Office (practice)
+**Date:** 2026-09-30
 **Subject:** Security due diligence — Zoom Workplace for customer video consultations
 
 ## Executive summary

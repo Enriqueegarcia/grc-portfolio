@@ -25,4 +25,4 @@ Desk review of public evidence: the Zoom Trust Center, Zoom's CSA STAR registry 
 **Limitation:** Zoom's SOC 2 Type II report is available only to customers through the Trust Center. It was not obtained. It is recorded as an **information request** that must be fulfilled before approval, not treated as a satisfied control.
 
 ## Disclaimer
-Independent practice assessment based only on publicly available information as of YYYY-MM-DD. Not affiliated with or endorsed by Zoom Video Communications, Inc. Banco Ejemplo is a fictional institution.
+Independent practice assessment based only on publicly available information as of 2026-09-30. Not affiliated with or endorsed by Zoom Video Communications, Inc. Banco Ejemplo is a fictional institution.
