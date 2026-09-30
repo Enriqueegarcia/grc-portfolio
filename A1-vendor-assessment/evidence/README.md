@@ -20,9 +20,10 @@ Access notes: Zoom's Trust Center (trust.zoom.com) gates most compliance documen
 | E-12 | Zoom Security Bulletins | https://www.zoom.com/en/trust/security-bulletin/ | live | public | C08, C09 |
 | E-13 | Zoom Global Data Processing Addendum (DPA) | https://media.zoom.com/download/assets/zoom-global-dpa.pdf/dd327ebea27e11efb613d6ba63ed4cee | version/date on PDF cover — **⚠️ record** | public | C10, C12, C13 |
 | E-14 | Zoom support — Selecting data center regions | https://support.zoom.us/hc/en-us/articles/360042411451 | live | public | C13 |
-| E-15 | Zoom support — cloud recording auto-deletion (Recording Management settings) | search support.zoom.com "auto delete cloud recordings" — **⚠️ record exact article URL** | live | public | C12 |
-| E-16 | Zoom support — SSO (SAML) and two-factor authentication settings | search support.zoom.com "single sign-on" and "two-factor authentication" — **⚠️ record exact article URLs** | live | public | C04 |
-| E-17 | Zoom Availability SLA (99.9% monthly, excluding excused downtime) + status page | https://status.zoom.us/ ; SLA document via Zoom legal pages — **⚠️ record URL** | live | public | C11 |
+| E-15 | Zoom support — "Managing cloud recording settings" (KB0065362) | https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0065362 | live, undated | public | C12 |
+| E-16 | Zoom blog — "Secure your Zoom account with two-factor authentication" (admin-level 2FA enforcement) | https://www.zoom.com/en/blog/secure-your-zoom-account-with-two-factor-authentication/ | 2020-09-10 | public | C04 |
+| E-17 | Zoom status page + support response times (KB0059100, P1–P4 severity) | https://status.zoom.us/ ; https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0059100 | live | public | C11 |
+| E-17b | Zoom Availability SLA (99.9% monthly target, excluding excused downtime) | Zoom legal/SLA document — **⚠️ record URL** | — | public | C11 |
 | E-18 | Zoom SOC 2 Type II report and bridge letter | via trust.zoom.com | — | **gated — not obtained** | C16 → F-01 |
 | E-19 | Zoom CAIQ (current) and SIG Core questionnaire | via trust.zoom.com | — | **gated — not obtained** | C01–C03, C07, C09 |
 | E-20 | MSG91 SOC 2 Type 2 report (practice reading only, not Zoom) | https://msg91.com/pdf/soc2.pdf | period 2024-01-26 → 2024-04-26; 52 pp. | public | 05-soc2-triage.md |
